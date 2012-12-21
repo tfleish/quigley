@@ -1,4 +1,4 @@
-quigley
+Quigley
 =======
 
-Neuro HMM
+Neuro HMM quigley method
